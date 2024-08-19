@@ -1,2 +1,1 @@
-# Step-Counter
-Developed a step detection system using an MPU6050 accelerometer and Raspberry Pi, utilizing real-time data calibration and vector magnitude analysis to accurately track steps.
+Developed a step detection system using an MPU6050 accelerometer and Raspberry Pi, utilizing real-time data calibration and vector magnitude analysis to accurately track steps. Implemented dynamic threshold-based step detection with live data visualization using Matplotlib.
